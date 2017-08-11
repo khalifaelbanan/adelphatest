@@ -13,19 +13,6 @@
 	<head>
 	<body link="red" alink="red" vlink="red">
 		<h1>Hello World</h1>
-		<table>
-		<tr>
-			<td><h3 align="center">nom</h3></td>
-			<td><h3 align="center">prenom</h3></td>
-			<td><h3 align="center">age</h3></td>
-		</tr>
-		<tr>
-			<td>EL BANAN</td>
-			<td>Khalifa</td>
-			<td>19</td>
-		</tr>
-
-		</table>
 		<?php 
 			echo "version 1";
 		?>
