@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="FR" dir="LTR">
 	<head>
-		<title>New document</title>
+		<title>Adelpha</title>
 		<link rel="stylesheet" type="text/css" href="khalifa.css">
 		<meta name="author" content="Khalifa EL BANAN"/>
 		<meta name="made" content="khalifa.elbanan@gmail.com"/>
