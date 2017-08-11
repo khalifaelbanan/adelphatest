@@ -14,7 +14,7 @@
 	<body link="red" alink="red" vlink="red">
 		<h1>Hello World</h1>
 		<?php 
-			echo "version 2<br/>";
+			echo "version 5<br/>";
 			echo "Adelpha AWS";
 		?>
 	</body>
