@@ -12,7 +12,7 @@
 		<meta http-equiv="content type" content="text/html; charset=UTF-8"/>
 	<head>
 	<body link="red" alink="red" vlink="red">
-		<h1>Hello World</h1>
+		<h1>Soufiane</h1>
 		<?php 
 			echo "version 6<br/>";
 			echo "Adelpha AWS";
